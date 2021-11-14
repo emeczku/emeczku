@@ -3,5 +3,5 @@
 ## commercials projects
 - [przemystka.pl](https://przemystka.pl/) // ***I cooperated with Rapaf, I was responsible for the implementation of the website in accordance with the design***
 
-## components
-- [order summary card](#) // ***html, css***
+## main projects
+- [e-commerce page](https://github.com/emeczku/e-commerce) // ***html, css, javascript, bootstrap, scss, api***
