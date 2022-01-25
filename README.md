@@ -10,7 +10,7 @@
 
 ## main projects
 - [e-commerce page](https://github.com/emeczku/e-commerce) // ***html, css, javascript, bootstrap, scss, api***
-- - [configurator](https://github.com/emeczku/configurator) // ***html, css, javascript bootstrap scss***
+- [configurator](https://github.com/emeczku/configurator) // ***html, css, javascript bootstrap scss***
 
 ## other projects
 - [paper rock scissors](https://github.com/emeczku/paper-rock-scissors) // ***html, css, javascript***
