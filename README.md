@@ -6,7 +6,3 @@
 
 ## main projects
 - [e-commerce page](https://github.com/emeczku/e-commerce) // ***html, css, javascript, bootstrap, scss, api***
-
-## frontendmentor
-
-## other projects
