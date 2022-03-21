@@ -1,3 +1,5 @@
+#email - majewskiprzemek3@gmail.com
+
 # About me
 
 ## commercials projects
