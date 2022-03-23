@@ -7,4 +7,3 @@ email - majewskiprzemek3@gmail.com
 - [zoodommy.pl](zoodommy.pl) ***connecting products to the store***
 
 ## main projects
-- [react e-commerce](https://github.com/emeczku/e-commerce)
