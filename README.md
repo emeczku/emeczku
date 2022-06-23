@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Przemek</h1>
 <h3>I am self-taught and currently specializing in the Front-End.</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **React** and **Typescript**
 - 📫 **majewskiprzemek3@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
