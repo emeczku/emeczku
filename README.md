@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning **React** and **Typescript**
 - 📫 **majewskiprzemek3@gmail.com**
+- www.linkedin.com/in/przemek-majewski
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
